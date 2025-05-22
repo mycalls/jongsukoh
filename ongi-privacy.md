@@ -1,4 +1,4 @@
-English | [한글](./ongi_privacy.ko.md) | [Español](./ongi_privacy.es.md) | [日本語](./ongi_privacy.ja.md) | [中文](./ongi_privacy.zh.md)
+English | [한글](./ongi-privacy.ko) | [Español](./ongi-privacy.es) | [日本語](./ongi-privacy.ja) | [中文](./ongi-privacy.zh)
 
 ## **Ongi Privacy Policy**
 
