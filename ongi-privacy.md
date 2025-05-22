@@ -1,3 +1,5 @@
+English | [한글](./ongi_privacy.ko.md) | [Español](./ongi_privacy.es.md) | [日本語](./ongi_privacy.ja.md) | [中文](./ongi_privacy.zh.md)
+
 ## **Ongi Privacy Policy**
 
 **Last Updated: May 19, 2025**
@@ -58,7 +60,7 @@ This Privacy Policy may be updated if the service structure or legal requirement
 
 ### 7. Contact
 
-If you have any questions regarding this Privacy Policy, please contact us at: **jongsukoh80@gmail.com**
+If you have any questions regarding this Privacy Policy, please contact us at: **ohjongsuk80@gmail.com**
 
 ---
 
