@@ -1,3 +1,5 @@
+English | [한글](./ongi_terms.ko.md) | [Español](./ongi_terms.es.md) | [日本語](./ongi_terms.ja.md) | [中文](./ongi_terms.zh.md)
+
 ## **Ongi Terms of Service**
 
 **Last Updated:** May 19, 2025
@@ -62,7 +64,7 @@ These Terms shall be governed by and interpreted in accordance with the laws of 
 ### 8. Contact
 
 If you have any questions regarding these Terms, please contact us at:
-**jongsukoh80@gmail.com**
+**ohjongsuk80@gmail.com**
 
 ---
 
