@@ -30,7 +30,7 @@ However, users under the age of 14 are encouraged to use the Service under paren
 
 Ongi is designed to **minimize or eliminate the collection of personal information**.
 
-For details about how we handle personal data (if any), please refer to our separate **[Privacy Policy]()**, available within the app or on our website.
+For details about how we handle personal data (if any), please refer to our separate [Privacy Policy](./ongi-privacy), available within the app or on our website.
 
 ---
 
