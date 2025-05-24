@@ -1,4 +1,4 @@
-English | [한글](./ongi_terms.ko.md) | [Español](./ongi_terms.es.md) | [日本語](./ongi_terms.ja.md) | [中文](./ongi_terms.zh.md)
+English | [한글](./ongi-terms-ko) | [Español](./ongi-terms-es) | [日本語](./ongi-terms-ja) | [中文](./ongi-terms-zh)
 
 ## **Ongi Terms of Service**
 
@@ -63,8 +63,7 @@ These Terms shall be governed by and interpreted in accordance with the laws of 
 
 ### 8. Contact
 
-If you have any questions regarding these Terms, please contact us at:
-**ohjongsuk80@gmail.com**
+If you have any questions regarding these Terms, please contact us at: **ohjongsuk80@gmail.com**
 
 ---
 
